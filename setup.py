@@ -25,7 +25,7 @@ with open('requirements.txt') as f:
 use_scm = {"write_to": "napari_just_testing/_version.py"}
 
 setup(
-    name='napari-just-testing',
+    name='napari-just-testing-xyz',
     author='Talley Lambert',
     author_email='talley.lambert@gmail.com',
     license='BSD-3',
